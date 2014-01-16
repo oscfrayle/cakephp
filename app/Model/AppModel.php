@@ -1,5 +1,5 @@
 <?php
-/**
+**
  * Application model for CakePHP.
  *
  * This file is application-wide model file. You can put all
